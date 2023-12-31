@@ -90,12 +90,11 @@ body{
     .wrap {
         margin-top: none;
         display:none;
-        justify-content:center;
     }
 
     .main{
-        width:auto;
-        height:auto;
+        width:500px;
+        height:550px;
     }
 
     
@@ -106,27 +105,26 @@ body{
     .wrap {
         margin-top: none;
         display:none;
-        justify-content:center;
+        
     }
 
     .main{
-        width:auto;
-        height:auto;
+        width:300px;
+        height:400px;
     }
 
     
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:800px) {
     .wrap {
         margin-top: none;
         display:none;
-        justify-content:center;
     }
 
     .main{
-        width:auto;
-        height:auto;
+        width:300px;
+        height:500px;
     }
 
     
