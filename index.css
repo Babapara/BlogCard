@@ -1,0 +1,133 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+    font-size:16px;
+    font-family: 'Figtree', 'Courier New', Courier, monospace;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+        color: hsl(228, 45%, 44%); 
+    }
+
+.wrap{
+    display: flex;
+    justify-content: center;
+    margin-top:120px; 
+    
+}
+
+.main{
+    
+    background-color: hsl(0, 0%, 100%);
+    width:400px;
+    height:590px;
+    border-radius:30px;   
+    border: 2px solid black;
+    border-right: 10px solid black;
+    border-bottom:10px solid black;
+    border-bottom-left-radius: 30px;
+}
+
+.f-img{
+    margin-top:20px;
+    margin-bottom: 50px;
+    margin-left: 31px;
+}
+ 
+.learning{
+    font-weight:800;
+    color:black;
+    background-color: hsl(47, 88%, 63%);
+    width:100px;
+    height:30px;
+    display:inline;
+    margin-left:31px;   
+}
+
+
+.dateOfP{
+  display:block;
+  margin-left:31px;
+  margin-bottom:5px;
+  font-family:'Tahoma';
+  word-spacing: 5px;
+  font-weight:600;
+}
+
+.topic{
+    margin-left:31px;
+    font-size:25px;
+    font-weight:800;
+}
+
+.intro{
+    word-spacing:5px;
+    margin-left:31px;
+    color:hsl(0, 0%, 50%);
+    font-weight: 500;
+}
+ .Lphase{
+    display:flex;
+    justify-content:start;
+ }
+ 
+.avatar{
+    width:30px;
+    margin-left:31px;
+    margin-right:20px;
+    margin-top:2px;
+}
+
+.nameOfP{
+    font-weight: 600;
+    margin-top:6px;
+}
+
+@media screen and (max-width:600px) {
+    .wrap {
+        margin-top: none;
+        display:none;
+        justify-content:center;
+    }
+
+    .main{
+        width:auto;
+        height:auto;
+    }
+
+    
+}
+
+
+@media screen and (max-width:347px) {
+    .wrap {
+        margin-top: none;
+        display:none;
+        justify-content:center;
+    }
+
+    .main{
+        width:auto;
+        height:auto;
+    }
+
+    
+}
+
+@media screen and (max-width:600px) {
+    .wrap {
+        margin-top: none;
+        display:none;
+        justify-content:center;
+    }
+
+    .main{
+        width:auto;
+        height:auto;
+    }
+
+    
+}
