@@ -21,9 +21,9 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Links
-- Live Site URL:  
+- Live Site URL:  https://babapara.github.io/BlogCard/
 
-## My process
+
 
 ### Built with
 
@@ -33,7 +33,7 @@ Users should be able to:
 
 ## Author
 
-- Website - Babawibe Duke  
-- Frontend Mentor - @Babapara   https://www.frontendmentor.io/profile/Babapara
+- Website -         Babawibe Duke  https://babapara.github.io/BlogCard/
+- Frontend Mentor - @Babapara      https://www.frontendmentor.io/profile/Babapara
 
 
